@@ -1,3 +1,3 @@
-# serial-websocket
+# websocket
 
-Simple serial to websocket bridge in node.js
+Simple websocket bridge in node.js
